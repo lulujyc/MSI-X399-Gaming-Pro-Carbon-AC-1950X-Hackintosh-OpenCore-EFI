@@ -21,9 +21,13 @@ In keyboard settings, select the modifier keys option, and switch `cmd` (win) wi
 ## Reference Specs
 
 CPU: ThreadRipper 1950X
+
 MB: MSI X399 Gaming Pro Carbon with Latest BIOS
+
 GPU: Radeon RX Vega 64 Reference Design
+
 SSD: Intel SSD 750 1.2T
+
 
 ## Tested OS (with latest EFI):
 - macOS High Sierra √
