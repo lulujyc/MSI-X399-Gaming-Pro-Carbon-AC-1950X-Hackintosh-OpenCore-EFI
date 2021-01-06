@@ -8,11 +8,11 @@ Hackintosh For MSI X399, AMD 1950X CPU and AMD Vega 64 GPU.
 - **Other 2nd gen TRs** Compatible in theory. Not tested.
  
 ## Post-installation tweaks
-A few required or otherwise useful steps to take on a running macOS system on your OneMix:
+A few required or otherwise useful steps to take on a running macOS:
 
 **Using your own serial number**
 
-Just generate a new set with OpenCore Configurator and you're good to go
+Just generate a new set with OpenCore Configurator and you're good to go (suggested SMBIOS is iMac Pro 2017 and Mac Pro 2019)
 
 **Switching `cmd` and `opt`**
 
